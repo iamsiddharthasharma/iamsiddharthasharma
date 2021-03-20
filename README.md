@@ -1,5 +1,2 @@
-Hi there👋 
-So the three random facts about me would be : 
-    1. i love to watch football a lot
-    2. Staying awake till 3a.m. is kinda a habit now 
-    3. I'm a music nerd, from Drake to Weekend, I listen to everything.
+Hey there👋, fellow coders! 
+I'm just a witty & curious fresher passionate for Artificial Intelligence & Machine Learning. Sometimes, i let Web Development pick my brains out too. Apart from this, I"m a nerd for football, music & The Office.
