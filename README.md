@@ -19,6 +19,5 @@ He's a very focused and creative individual who is thriving hard & passionate ab
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsiddharthasharma&langs_count=8&theme=radical)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamsiddharthasharma&repo=COVID-HELP-WEB-APP&theme=radical)
 
 
