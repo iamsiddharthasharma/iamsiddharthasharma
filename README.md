@@ -17,6 +17,6 @@ He's a very focused and creative individual who is thriving hard & passionate ab
 
 ![Siddhartha's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsiddharthasharma&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsiddharthasharma&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsiddharthasharma&langs_count=8&theme=radical)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamsiddharthasharma&repo=COVID-HELP-WEB-APP)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamsiddharthasharma&repo=COVID-HELP-WEB-APP&theme=radical)
