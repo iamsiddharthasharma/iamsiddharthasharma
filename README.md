@@ -1,5 +1,7 @@
 <h1 align="center">Hi y'all! I'm Siddhartha Sharma👋</h1>
-<h3 align="center">Just a curious fresher passionate for Development. Currently pursuing B.Tech in Computer Science Engineering with spl. in AI & ML. Part-time Web Development enthusiast too. Apart from that, I'm just a nerd for football and music.</h3>
+<h3 align="center">Siddhartha is a young tech enthusiast, Front-end Web Developer, AI-ML Researcher, Crypto & Web3 Fanatic, and also a Creative Video Editor, currently in his sophomore year of B.Tech in CSE (With Spl. in AI & ML). 
+
+He's a very focused and creative individual who is thriving hard & passionate about new tech. He likes to be creative and add a Wow factor in everything he does.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsiddharthasharma&label=Profile%20views&color=0e75b6&style=flat" alt="iamsiddharthasharma" /> </p>
 
@@ -15,6 +17,6 @@
 
 ![Siddhartha's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsiddharthasharma&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsiddharthasharma&langs_count=8)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsiddharthasharma&langs_count=8)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamsiddharthasharma&repo=COVID-HELP-WEB-APP)]
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamsiddharthasharma&repo=COVID-HELP-WEB-APP)
