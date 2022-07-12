@@ -3,6 +3,7 @@
 
 He's a very focused and creative individual who is thriving hard & passionate about new tech. He likes to be creative and add a Wow factor in everything he does.</h3>
 
+<h3>Official Portfolio Link : <a href = "https://iamsiddharthasharma.github.io/portfolio/">https://iamsiddharthasharma.github.io/portfolio/</a></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsiddharthasharma&label=Profile%20views&color=0e75b6&style=flat" alt="iamsiddharthasharma" /> </p>
 
 <h3 align="left">Connect with me:</h3>
