@@ -9,8 +9,10 @@ He's a very focused and creative individual who is thriving hard & passionate ab
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sidtight" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitter-round-line-color-icon.svg" alt="sidtight" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/iamsiddharthasharma/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-round-line-color.svg" alt="Siddhartha Sharma" height="30" width="40" /></a>
-<a href="https://instagram.com/iamsiddharthasharma" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/instagram-round-line-color.svg" alt="iamsiddharthasharma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/iamsiddharthasharma/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-round-line-color-icon.svg" alt="Siddhartha Sharma" height="30" width="40" /></a>
+
+<a href="https://instagram.com/iamsiddharthasharma" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/black-instagram-icon.svg" alt="iamsiddharthasharma" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
