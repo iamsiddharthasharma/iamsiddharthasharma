@@ -1,6 +1,6 @@
 <h1 align="center">Hi y'all! I'm Siddhartha Sharma👋</h1>
 <h3 align="center">Siddhartha is a young, driven individual with a keen interest in advanced technology. He has a strong background in several fields, including Web Development, AI-ML Research, Data Science, Crypto and Web3, as well as Creative Video Editing. 
-  
+  <br>
 Currently pursuing a B.Tech in CSE (with a specialization in AI & ML), Siddhartha possesses a deep understanding of the latest technological trends and is committed to staying informed of emerging advancements. He is dedicated to delivering exceptional work, adding a "wow factor" to his endeavors, and is an effective communicator and collaborator, making him a valuable asset to any team.</h3>
 
 <h3>Official Portfolio Link : <a href = "https://iamsiddharthasharma.github.io/portfolio/">https://iamsiddharthasharma.github.io/portfolio/</a></h3>
