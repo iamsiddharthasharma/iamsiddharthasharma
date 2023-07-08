@@ -8,10 +8,9 @@ Currently pursuing a B.Tech in CSE (with a specialization in AI & ML), Siddharth
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sidtight" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitter-round-line-color-icon.svg" alt="sidtight" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/iamsiddharthasharma/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-round-line-color-icon.svg" alt="Siddhartha Sharma" height="30" width="40" /></a>
-
-<a href="https://instagram.com/iamsiddharthasharma" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/black-instagram-icon.svg" alt="iamsiddharthasharma" height="30" width="40" /></a>
+<a href="https://twitter.com/sidtight" target="blank" >Twitter</a>
+<a href="https://www.linkedin.com/in/iamsiddharthasharma/" target="blank">LinkedIn</a>
+<a href="https://instagram.com/iamsiddharthasharma" target="blank">Instagram</a>
 
 </p>
 
