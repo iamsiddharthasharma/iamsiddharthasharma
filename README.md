@@ -37,8 +37,8 @@ Currently pursuing a B.Tech in CSE (specializing in AI & ML), Siddhartha possess
 <a href="https://www.linkedin.com/in/iamsiddharthasharma/" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin"  width="45" height="55"/></a>
 <a href="https://instagram.com/iamsiddharthasharma" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="ig"  width="45" height="55"/></a>
 
-![Siddhartha's github stats](https://github-readme-stats.vercel.app/api?username=iamsiddharthasharma&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsiddharthasharma&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamsiddharthasharma&theme=dark)](https://git.io/streak-stats)
+![Siddhartha's github stats](https://github-readme-stats.vercel.app/api?username=iamsiddharthasharma&show_icons=true&theme=radical&hide=issues&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsiddharthasharma&layout=compact&theme=radical&hide=css,html,php)](https://github.com/iamsiddharthasharma/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamsiddharthasharma&theme=radical)](https://git.io/streak-stats)
 
 
