@@ -4,7 +4,7 @@
 <h2>About Me : </h2>
 Siddhartha is a young, driven individual with a keen interest in advanced technology. He has a strong background in several fields, including Web Development, AI-ML Research, Data Science, Crypto and Web3, as well as Creative Video Editing. 
 <br><br>
-Currently pursuing a B.Tech in CSE (specializing in AI & ML), Siddhartha possesses a deep understanding of the latest technological trends and is committed to staying informed of emerging advancements. He is dedicated to delivering exceptional work, adding a "wow factor" to his endeavors, and is an effective communicator and collaborator, making him a valuable asset to any team.
+As a B.Tech graduate in CSE (specializing in AI & ML), Siddhartha possesses a deep understanding of the latest technological trends and is committed to staying informed of emerging advancements. He is dedicated to delivering exceptional work, adding a "wow factor" to his endeavors, and is an effective communicator and collaborator, making him a valuable asset to any team.
 
 <br>
 <br>
